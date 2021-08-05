@@ -1,2 +1,3 @@
-run.py takes the error logs from sys.txt and organizes it into a csv file called user_statistics.csv
-the csv file is organized by username and how many times each username triggered an "INFO" message and "ERROR" message
+run.py takes the error logs from sys.txt and organizes it into two csv files called user_statistics.csv and error_message.csv
+user_statistics.csv is organized by username and how many times each username triggered an "INFO" message and "ERROR" message
+error_message.csv is organized by each error type and how many times they occured in total 
