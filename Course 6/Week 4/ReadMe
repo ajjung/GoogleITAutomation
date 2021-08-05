@@ -1,0 +1,6 @@
+The goal of these scripts are to take a folder of images and descriptions of products and upload them to the client's website. 
+A script will then email the client with a PDF file stating what was uploaded to the website.
+changeImage.py takes a directory of images and formats them to fit the requirements of the client's website.
+supplier_image_upload.py uploads the images to the suppliers website
+run.py takes the images on the suppliers website and posts them together with the product's descriptions 
+report_email.py sends an email to the supplier with an attached PDF stating what was successfully uploaded to the website.
