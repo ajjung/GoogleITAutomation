@@ -1,0 +1,2 @@
+run.py takes the error logs from sys.txt and organizes it into a csv file called user_statistics.csv
+the csv file is organized by username and how many times each username triggered an "INFO" message and "ERROR" message
