@@ -1,0 +1,2 @@
+images.py takes a directory of .TIFF images and converts them into .JPEG images
+.TIFF images are also rotated by 270 degrees clockwise and resized to 128x128
